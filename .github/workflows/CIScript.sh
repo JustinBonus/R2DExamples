@@ -9,5 +9,3 @@ echo "The current path in the shell is: " $PWD
 cd .github/workflows
 
 python3 fileSubmit.py
-
-
